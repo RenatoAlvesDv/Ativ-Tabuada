@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Laços while, do while , for\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
