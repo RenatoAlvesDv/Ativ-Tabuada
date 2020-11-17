@@ -8,6 +8,7 @@ namespace Tabuada
         {
             //Atividade - Escreva um algoritmo que receba o número inteiro e exiba sua tabuada até 10
             Console.WriteLine("Tabuada"); 
+            Console.WriteLine(""); 
             Console.WriteLine("Digite um número:");
             int numero = int.Parse(Console.ReadLine());
             

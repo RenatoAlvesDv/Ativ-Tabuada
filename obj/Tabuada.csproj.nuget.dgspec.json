@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Tabuada\\Tabuada.csproj": {}
+    "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Ativ-Tabuada\\Tabuada.csproj": {}
   },
   "projects": {
-    "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Tabuada\\Tabuada.csproj": {
+    "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Ativ-Tabuada\\Tabuada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Tabuada\\Tabuada.csproj",
+        "projectUniqueName": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Ativ-Tabuada\\Tabuada.csproj",
         "projectName": "Tabuada",
-        "projectPath": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Tabuada\\Tabuada.csproj",
+        "projectPath": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Ativ-Tabuada\\Tabuada.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Tabuada\\obj\\",
+        "outputPath": "E:\\Curso Tecnico Senai  DV\\Introdução-Logica-de -Programacão\\C#\\Laços while, do while , for\\Ativ-Tabuada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
